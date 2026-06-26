@@ -1,6 +1,6 @@
 # LocalChat — Mensageria P2P Local
 
-Chat em tempo real pela rede Wi-Fi local. Sem internet, sem conta, sem nada na nuvem.
+Chat em tempo real pela rede Wi-Fi local. Sem internet, sem conta, sem nada na nuvem. A aplicação vai fconectar uma porta a rede local onde todos que acessarem receberam uma pagina web e se comunicaram via HTTP.
 
 ## Como usar
 
